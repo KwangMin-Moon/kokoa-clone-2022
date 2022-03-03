@@ -4,6 +4,8 @@
   padding: 5px;
   position: fixed;
   width: 100%;
+  top: -1px;
+  /*갑자기 status-bar 부분이 아래로 내려가서 top으로 -1px해줬다 */
 }
 .status-bar__column {
   width: 33%;
@@ -19,6 +21,7 @@
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  margin-right: 10px;
 }
 .status-bar__column .fa-battery-full {
   margin: 0px 3px;
