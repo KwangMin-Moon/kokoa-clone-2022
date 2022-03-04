@@ -7,7 +7,7 @@
 @import "component/screen-header.css";
 /* Scrennshot */
 @import "screenshot/login.css";
-
+@import "screenshot/friends.css";
 body {
   font-family: "Open Sans", sans-serif;
 }
