@@ -5,9 +5,11 @@
 @import "component/status-bar.css";
 @import "component/nav-bar.css";
 @import "component/screen-header.css";
-/* Scrennshot */
-@import "screenshot/login.css";
-@import "screenshot/friends.css";
+
+/* Screnns */
+@import "component/user-component.css";
+@import "screens/login.css";
+@import "screens/friends.css";
 body {
   font-family: "Open Sans", sans-serif;
 }
